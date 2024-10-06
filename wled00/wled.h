@@ -1,3 +1,4 @@
+#include <FS.h>
 #ifndef WLED_H
 #define WLED_H
 /*
